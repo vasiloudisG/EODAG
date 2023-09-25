@@ -1,0 +1,1 @@
+- eodag version update from 2.8 to 2.10 to fix delayed products download
